@@ -3,7 +3,7 @@ const input = document.querySelector("input");
 const newsContainer = document.getElementById("#2");
 
 function displayNews(news) {
-    newsContainer.innerHTML = ''; // Очищаем контейнер перед добавлением новых новостей
+    newsContainer.innerHTML = ''; 
 
     if (news.length === 0) {
         newsContainer.innerHTML = '<p>No news found</p>';
