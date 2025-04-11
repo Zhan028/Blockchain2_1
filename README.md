@@ -64,3 +64,9 @@ Enter a cryptocurrency symbol (e.g., BTC, ETH) or name (e.g., Bitcoin, Ethereum)
 - HTML/CSS/JS - Frontend interface
 - dotenv - Environment variable management
 - chrono - Date/time handling
+
+- ## Authors
+
+- Moldabek Zhanbatyr
+- Nadir Shugay
+- Dias Makhatov
